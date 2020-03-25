@@ -1,0 +1,10 @@
+D:\Skolo\C#\Basic\Homeworks\Class 3 Homework\Homework3\StudentGroup\bin\Debug\netcoreapp2.1\StudentGroup.deps.json
+D:\Skolo\C#\Basic\Homeworks\Class 3 Homework\Homework3\StudentGroup\bin\Debug\netcoreapp2.1\StudentGroup.runtimeconfig.json
+D:\Skolo\C#\Basic\Homeworks\Class 3 Homework\Homework3\StudentGroup\bin\Debug\netcoreapp2.1\StudentGroup.runtimeconfig.dev.json
+D:\Skolo\C#\Basic\Homeworks\Class 3 Homework\Homework3\StudentGroup\bin\Debug\netcoreapp2.1\StudentGroup.dll
+D:\Skolo\C#\Basic\Homeworks\Class 3 Homework\Homework3\StudentGroup\bin\Debug\netcoreapp2.1\StudentGroup.pdb
+D:\Skolo\C#\Basic\Homeworks\Class 3 Homework\Homework3\StudentGroup\obj\Debug\netcoreapp2.1\StudentGroup.csprojAssemblyReference.cache
+D:\Skolo\C#\Basic\Homeworks\Class 3 Homework\Homework3\StudentGroup\obj\Debug\netcoreapp2.1\StudentGroup.AssemblyInfoInputs.cache
+D:\Skolo\C#\Basic\Homeworks\Class 3 Homework\Homework3\StudentGroup\obj\Debug\netcoreapp2.1\StudentGroup.AssemblyInfo.cs
+D:\Skolo\C#\Basic\Homeworks\Class 3 Homework\Homework3\StudentGroup\obj\Debug\netcoreapp2.1\StudentGroup.dll
+D:\Skolo\C#\Basic\Homeworks\Class 3 Homework\Homework3\StudentGroup\obj\Debug\netcoreapp2.1\StudentGroup.pdb
