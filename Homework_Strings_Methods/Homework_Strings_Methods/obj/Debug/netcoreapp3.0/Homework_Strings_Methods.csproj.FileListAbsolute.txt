@@ -1,0 +1,11 @@
+D:\Skolo\C#\Basic\Homeworks\Homework_Strings_Methods\Homework_Strings_Methods\bin\Debug\netcoreapp3.0\Homework_Strings_Methods.exe
+D:\Skolo\C#\Basic\Homeworks\Homework_Strings_Methods\Homework_Strings_Methods\bin\Debug\netcoreapp3.0\Homework_Strings_Methods.deps.json
+D:\Skolo\C#\Basic\Homeworks\Homework_Strings_Methods\Homework_Strings_Methods\bin\Debug\netcoreapp3.0\Homework_Strings_Methods.runtimeconfig.json
+D:\Skolo\C#\Basic\Homeworks\Homework_Strings_Methods\Homework_Strings_Methods\bin\Debug\netcoreapp3.0\Homework_Strings_Methods.runtimeconfig.dev.json
+D:\Skolo\C#\Basic\Homeworks\Homework_Strings_Methods\Homework_Strings_Methods\bin\Debug\netcoreapp3.0\Homework_Strings_Methods.dll
+D:\Skolo\C#\Basic\Homeworks\Homework_Strings_Methods\Homework_Strings_Methods\bin\Debug\netcoreapp3.0\Homework_Strings_Methods.pdb
+D:\Skolo\C#\Basic\Homeworks\Homework_Strings_Methods\Homework_Strings_Methods\obj\Debug\netcoreapp3.0\Homework_Strings_Methods.csprojAssemblyReference.cache
+D:\Skolo\C#\Basic\Homeworks\Homework_Strings_Methods\Homework_Strings_Methods\obj\Debug\netcoreapp3.0\Homework_Strings_Methods.AssemblyInfoInputs.cache
+D:\Skolo\C#\Basic\Homeworks\Homework_Strings_Methods\Homework_Strings_Methods\obj\Debug\netcoreapp3.0\Homework_Strings_Methods.AssemblyInfo.cs
+D:\Skolo\C#\Basic\Homeworks\Homework_Strings_Methods\Homework_Strings_Methods\obj\Debug\netcoreapp3.0\Homework_Strings_Methods.dll
+D:\Skolo\C#\Basic\Homeworks\Homework_Strings_Methods\Homework_Strings_Methods\obj\Debug\netcoreapp3.0\Homework_Strings_Methods.pdb

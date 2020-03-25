@@ -1,0 +1,10 @@
+D:\Skolo\C#\Basic\Homeworks\Homework_Strings_Methods\Task 2\bin\Debug\netcoreapp2.1\Task 2.deps.json
+D:\Skolo\C#\Basic\Homeworks\Homework_Strings_Methods\Task 2\bin\Debug\netcoreapp2.1\Task 2.runtimeconfig.json
+D:\Skolo\C#\Basic\Homeworks\Homework_Strings_Methods\Task 2\bin\Debug\netcoreapp2.1\Task 2.runtimeconfig.dev.json
+D:\Skolo\C#\Basic\Homeworks\Homework_Strings_Methods\Task 2\bin\Debug\netcoreapp2.1\Task 2.dll
+D:\Skolo\C#\Basic\Homeworks\Homework_Strings_Methods\Task 2\bin\Debug\netcoreapp2.1\Task 2.pdb
+D:\Skolo\C#\Basic\Homeworks\Homework_Strings_Methods\Task 2\obj\Debug\netcoreapp2.1\Task 2.csprojAssemblyReference.cache
+D:\Skolo\C#\Basic\Homeworks\Homework_Strings_Methods\Task 2\obj\Debug\netcoreapp2.1\Task 2.AssemblyInfoInputs.cache
+D:\Skolo\C#\Basic\Homeworks\Homework_Strings_Methods\Task 2\obj\Debug\netcoreapp2.1\Task 2.AssemblyInfo.cs
+D:\Skolo\C#\Basic\Homeworks\Homework_Strings_Methods\Task 2\obj\Debug\netcoreapp2.1\Task 2.dll
+D:\Skolo\C#\Basic\Homeworks\Homework_Strings_Methods\Task 2\obj\Debug\netcoreapp2.1\Task 2.pdb
